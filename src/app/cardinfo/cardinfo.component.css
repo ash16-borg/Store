@@ -1,0 +1,9 @@
+.card-text{
+    font-family: "Bona-Nova-SC";
+    text-transform: uppercase;
+    text-align: justify;
+    font-weight: 800;
+}
+.card-body{
+    background-color: antiquewhite;
+}
